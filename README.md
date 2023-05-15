@@ -1,4 +1,4 @@
-<h2> Computer Engineer, Software Architect, Technopreneur and a Human. </h2>
+<h2> Computer Engineer / Architect, Technopreneur and a Human. </h2>
 
 <h5> Stuff I work with: </h5>
 
