@@ -5,7 +5,7 @@
 ![Blue Pitch Deck Business Presentation](https://github.com/Abinesh-Mathivanan/Abinesh-Mathivanan/assets/113496287/5fc0d38b-c38d-498d-8858-6aa36d89b524)
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Abinesh-Mathivanan/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abinesh-Mathivanan)](https://github.com/Abinesh-Mathivanan/github-readme-stats)
 
 
 
