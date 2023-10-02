@@ -1,23 +1,40 @@
-# Hi, I'm [Abinesh Mathivanan] 👋
-- 🌍 Based in [India]
-- 💼 [Engineer]
-- 📧 [abineshmathivanan31@gmail.com]
+<h1 align="center">Hi, I'm Abinesh Mathivanan👋</h1>
+<h3 align="center">Engineer and Technologist 🚀</h3>
 
-## Skills and Technologies
-- ![Python](https://www.python.org/static/community_logos/python-logo.png) [Python](https://www.python.org/)
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- ![HTML](https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png) [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- ![CSS](https://www.w3.org/Style/CSS/logo/CSS3.png) [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### Languages and Tools : 
+
+[<img align="left" alt="Java" width="30px" src="https://skillicons.dev/icons?i=java" />](https://java.com/)
+
+[<img align="left" alt="JavaScript" width="30px" src="https://skillicons.dev/icons?i=js" />](https://www.javascript.com/)
+[<img align="left" alt="Node.js" width="30px" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en/)
+[<img align="left" alt="Express Js" width="30px" src="https://skillicons.dev/icons?i=express" />](https://expressjs.com/)
+[<img align="left" alt="Arduino" width="30px" src="https://skillicons.dev/icons?i=arduino" />](https://www.arduino.cc/)
+<br />
+<br />
+[<img align="left" alt="MongoDB" width="30px" src="https://skillicons.dev/icons?i=mongodb" />](https://www.mongodb.com/)
+
+[<img align="left" alt="Idea" width="30px" src="https://skillicons.dev/icons?i=idea" />](https://www.jetbrains.com/idea/)
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://skillicons.dev/icons?i=vscode" />](https://code.visualstudio.com/)
+[<img align="left" alt="HTML5" width="30px" src="https://skillicons.dev/icons?i=html" />](https://www.w3.org/html/)
+<br />
+<br />
+[<img align="left" alt="CSS3" width="30px" src="https://skillicons.dev/icons?i=css" />](https://www.w3schools.com/css/)
+<br />
+<br />
+
+---
 
 
-![GitHub Contributions](https://img.shields.io/github/contributions/Abinesh-Mathivanan)
-![GitHub Followers](https://img.shields.io/github/followers/Abinesh-Mathivanan?label=Followers)
-
-## Contact
-- 📧 [Email](mailto:abineshmathivanan31@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/abineshmathivanan/)
-- 🐦 [Twitter](https://twitter.com/dirctd_by_beens)
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
+</br>
+<a href="https://github.com/Abinesh-Mathivanan">
+<img align="center" alt="Abinesh's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=Abinesh-Mathivanan&&show_icons=true&theme=tokyonight&layout=compact"/>
+</br>
+</br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abinesh-Mathivanan&show_icons=true&theme=tokyonight&layout=compact" alt="Abinesh" />
+</a>
+</details>
 
 
 
