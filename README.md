@@ -7,7 +7,7 @@
 
 [<img align="left" alt="JavaScript" width="30px" src="https://skillicons.dev/icons?i=js" />](https://www.javascript.com/)
 [<img align="left" alt="Node.js" width="30px" src="https://skillicons.dev/icons?i=nodejs" />](https://nodejs.org/en/)
-[<img align="left" alt="Express Js" width="30px" src="https://skillicons.dev/icons?i=express" />](https://expressjs.com/)
+[<img align="left" alt="Keras" width="30px" src="https://skillicons.dev/icons?i=pytorch" />](https://pytorch.org/)
 [<img align="left" alt="Arduino" width="30px" src="https://skillicons.dev/icons?i=arduino" />](https://www.arduino.cc/)
 <br />
 <br />
