@@ -30,7 +30,7 @@
 <img align="center" alt="Abinesh's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=Abinesh-Mathivanan&&show_icons=true&theme=tokyonight&layout=compact"/>
 </br>
 <br />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abinesh-Mathivanan&theme=dark"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abinesh-Mathivanan"/></a>
 </a>
 </details>
 
