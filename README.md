@@ -30,7 +30,7 @@
 <img align="center" alt="Abinesh's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=Abinesh-Mathivanan&&show_icons=true&theme=tokyonight&layout=compact"/>
 </br>
 <br />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abinesh-Mathivanan&show_icons=true&theme=tokyonight&layout=compact" alt="Abinesh's GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abinesh-Mathivanan)](https://git.io/streak-stats)
 </a>
 </details>
 
