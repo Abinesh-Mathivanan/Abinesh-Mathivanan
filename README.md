@@ -8,6 +8,7 @@
 
 
 ![Beens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinesh-Mathivanan&theme=dark&show_icons=true)
+[![Beens Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh-Mathivanan)]
 
 ![Abinesh-Mathivanan's Stats](https://github-readme-stats.vercel.app/api?username=Abinesh-Mathivanan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Abinesh-Mathivanan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinesh-Mathivanan&theme=vue-dark&hide_border=true)
