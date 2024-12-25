@@ -7,6 +7,7 @@
 [![GitHub avinash201199](https://img.shields.io/github/followers/Abinesh-Mathivanan?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
 
 
+![Beens's GitHub stats](https://github-readme-stats.vercel.app/api?Abinesh-Mathivanan=anuraghazra&theme=dark&show_icons=true)
 
 ![Abinesh-Mathivanan's Stats](https://github-readme-stats.vercel.app/api?username=Abinesh-Mathivanan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Abinesh-Mathivanan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinesh-Mathivanan&theme=vue-dark&hide_border=true)
