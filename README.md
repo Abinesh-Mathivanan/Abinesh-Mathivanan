@@ -7,9 +7,9 @@
 [![GitHub avinash201199](https://img.shields.io/github/followers/Abinesh-Mathivanan?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
 
 
-![Beens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinesh-Mathivanan&theme=dark&show_icons=true)
-![Abinesh-Mathivanan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinesh-Mathivanan&theme=dark&hide_border=true)
-![Abinesh-Mathivanan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh-Mathivanan&layout=compact&theme=dark&hide=css,html,makefile)
+![Beens GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinesh-Mathivanan&theme=dark&show_icons=true)
+![Beens GitHub Streak](https://streak-stats.demolab.com/?user=Abinesh-Mathivanan&theme=dark)](https://git.io/streak-stats)
+![Beens Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh-Mathivanan&layout=compact&theme=dark&hide=css,html,makefile)
 
 
 
