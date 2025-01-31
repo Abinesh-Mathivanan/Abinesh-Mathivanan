@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 ![profile count](https://komarev.com/ghpvc/?username=Abinesh-Mathivanan&color=red)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/Abinesh-Mathivanan?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+[![GitHub Beens](https://img.shields.io/github/followers/Abinesh-Mathivanan?label=follow&style=social)](https://github.com/Abinesh-Mathivanan)&nbsp;
 
 
 ![Beens GitHub stats](https://github-readme-stats.vercel.app/api?username=Abinesh-Mathivanan&theme=dark&show_icons=true)
